@@ -3,6 +3,8 @@ package main
 import (
 	"fmt"
 	"time"
+
+	us "C:\Program Files\Go\src\tutorialGO\ejer10\user"
 )
 
 type pepe struct {
