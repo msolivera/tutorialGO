@@ -21,6 +21,7 @@ func main() {
 	} else {
 		fmt.Println("es falso")
 	}*/
+	
 	switch numero:= 5, numero{
 	case 1:
 		fmt.Println(1)
